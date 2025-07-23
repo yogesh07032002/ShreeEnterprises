@@ -9,16 +9,16 @@ export const ContactForm = () => {
     e.preventDefault();
 
     emailjs
-      .sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, {
-        publicKey: 'YOUR_PUBLIC_KEY',
+      .sendForm("service_rgz6jkc", "template_wejofpj", form.current, {
+        publicKey: "qlI3-cRNNE1A0p0ev",
       })
       .then(() => {
-        alert('Message sent successfully!');
+        alert("Message sent successfully!");
         form.current.reset();
       })
       .catch((error) => {
-        console.error('FAILED...', error);
-        alert('Failed to send message. Please try again.');
+        console.error("FAILED...", error);
+        alert("Failed to send message. Please try again.");
       });
   };
 
