@@ -58,7 +58,7 @@ export const Home = () => {
           </h2>
           <p className="text-lg font-semibold sm:text-xl">
             📞 +91 96737 12809 | ✉️ shreenterprises2030@gmail.com <br />
-            🌐 www.shreeenterprises.in
+            🌐 www.shreeenterprises.com
           </p>
         </div>
       </section>

@@ -38,7 +38,7 @@ export const About = () => {
           <p><strong>Location:</strong> Chhatrapati Sambhajinagar, Maharashtra, India - 431005</p>
           <p><strong>Phone:</strong> <a href="tel:+919673712809" className="text-green-600">+91 96737 12809</a></p>
           <p><strong>Email:</strong> <a href="mailto:contact@shreeenterprises.com" className="text-green-600">shreenterprises2030@gmail.com</a></p>
-          <p><strong>Website:</strong> <a href="https://www.shreeenterprises.in" className="text-green-600">www.shreeenterprises.in</a></p>
+          <p><strong>Website:</strong> <a href="https://www.shreeenterprises.in" className="text-green-600">www.shreenterprises.com</a></p>
         </div>
       </section>
 
