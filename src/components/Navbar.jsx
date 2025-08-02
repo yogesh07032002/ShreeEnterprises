@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 import { useState } from "react";
-import logo from "../assets/logo.jpg"; // ✅ Replace with your actual logo file path
+import logo from "../assets/Logo.jpg"; // ✅ Replace with your actual logo file path
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
